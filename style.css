@@ -63,6 +63,9 @@ nav a.active {
 }
 
 nav a.active:hover {
-    background-color: #555;
+    background-color: #7c8e82;
 }
 
+header a {
+    color: rgb(188, 240, 98);
+}
